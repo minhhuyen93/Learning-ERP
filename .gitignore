@@ -1,0 +1,17 @@
+CMR/CMR/obj/Debug/
+CMR/CRM.Repository.Impl/obj/Debug/
+CMR/CRM.Service/obj/
+CMR/CRM.Service.Impl/obj/
+CMR/CRM.Service.Impl/bin/
+CMR/CRM.Entity/bin/
+CMR/CRM.Context/obj/
+CMR/CRM.Entity/obj/
+CMR/CRM.Repository.Impl/obj/
+CMR/CRM.Repository/bin/Debug/
+CMR/CRM.Repository.Impl/bin/Debug/netstandard2.0/
+CMR/CRM.Repository/obj/
+CMR/CRM.Common/obj/
+CMR/.vs/CMR/v15/
+CMR/CRM.Common/bin/Debug/
+CMR/CRM.Context/bin/Debug/netstandard2.0/
+CMR/CRM.Service/bin/Debug/netstandard2.0/
